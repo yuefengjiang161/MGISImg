@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MGISImg", "MGISImg.vcxproj", "{69279A74-6559-4661-A926-1395E078C45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69279A74-6559-4661-A926-1395E078C45D}.Debug|x64.ActiveCfg = Debug|x64
+		{69279A74-6559-4661-A926-1395E078C45D}.Debug|x64.Build.0 = Debug|x64
+		{69279A74-6559-4661-A926-1395E078C45D}.Release|x64.ActiveCfg = Release|x64
+		{69279A74-6559-4661-A926-1395E078C45D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA86BE68-34A2-4F90-976E-E75D7C6EC779}
+	EndGlobalSection
+EndGlobal
